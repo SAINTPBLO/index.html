@@ -1,0 +1,7 @@
+footer{
+    display: flex;
+    text-align: center;
+    padding: 7px;
+    background-color: #abbaba;
+    color: #000;
+}
